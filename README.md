@@ -13,7 +13,10 @@ This repository contains the tasks completed as part of the **CodSoft Machine Le
    - **Result:** ~48% validation accuracy and ~48.7% test accuracy across 25+ genres.
 
 2. **Task 2 – Credit Card Fraud Detection**
-   - *(To be added)*
+   - Binary classification using machine learning
+   - Baseline: Logistic Regression
+   - Improved: Random Forest
+   - Best Result: ~33% recall for fraud (class 1)
 
 3. **Task 3 – Spam SMS Detection**
    - *(To be added)*
