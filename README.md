@@ -32,6 +32,7 @@ CODSOFT/
 │   ├── README.md
 │   └── movie_genre_classification.ipynb
 ├── Task2_Credit_Card_Fraud_Detection/
-│   └── (to be added)
+│      ├── README.md
+│      └── Task2_credit_fraud.ipynb
 └── Task3_Spam_SMS_Detection/
     └── (to be added)
