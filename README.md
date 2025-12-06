@@ -1,4 +1,4 @@
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/cc37c073-315a-4416-8a24-1a0aa20a5859" /># CODSOFT
+# CODSOFT
 Machine Learning Internship Tasks - CodSoft
 # CODSOFT – Machine Learning Internship
 
