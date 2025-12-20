@@ -66,6 +66,8 @@ The internship focuses on applying machine learning and NLP techniques to solve 
 ---
 
 ## Repository Structure
+
+```text
 CODSOFT/
 │
 ├── README.md
@@ -82,6 +84,7 @@ CODSOFT/
     ├── README.md
     └── spam_sms_detection.ipynb
 
----
+
+
 
 
