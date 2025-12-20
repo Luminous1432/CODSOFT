@@ -69,7 +69,6 @@ CODSOFT/
 ├── README.md
 └── spam_sms_detection.ipynb
 
-
 ---
 
 ## Technologies Used
