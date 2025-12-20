@@ -9,8 +9,7 @@ The internship focuses on applying machine learning and NLP techniques to solve 
 ## Internship Details
 - Role: Machine Learning Intern  
 - Organization: CodSoft  
-- Duration: 1 Month  
-- Requirement: Completion of at least 3 tasks  
+- Duration: 1 Month   
 
 ---
 
