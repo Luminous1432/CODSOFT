@@ -56,6 +56,15 @@ The internship focuses on applying machine learning and NLP techniques to solve 
 
 ---
 
+## Technologies Used
+- Python  
+- Pandas, NumPy  
+- Scikit-learn  
+- NLP (TF-IDF)  
+- Matplotlib  
+
+---
+
 ## Repository Structure
 CODSOFT/
 │
@@ -75,14 +84,4 @@ CODSOFT/
 
 ---
 
-## Technologies Used
-- Python  
-- Pandas, NumPy  
-- Scikit-learn  
-- NLP (TF-IDF)  
-- Matplotlib  
-
----
-
-#codsoft #internship #machinelearning #nlp
 
