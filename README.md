@@ -58,16 +58,20 @@ The internship focuses on applying machine learning and NLP techniques to solve 
 
 ## Repository Structure
 CODSOFT/
+│
 ├── README.md
+│
 ├── Task1_Movie_Genre_Classification/
-│ ├── README.md
-│ └── movie_genre_classification.ipynb
+│   ├── README.md
+│   └── movie_genre_classification.ipynb
+│
 ├── Task2_Credit_Card_Fraud_Detection/
-│ ├── README.md
-│ └── Task2_credit_fraud.ipynb
+│   ├── README.md
+│   └── Task2_credit_fraud.ipynb
+│
 └── Task3_Spam_SMS_Detection/
-├── README.md
-└── spam_sms_detection.ipynb
+    ├── README.md
+    └── spam_sms_detection.ipynb
 
 ---
 
